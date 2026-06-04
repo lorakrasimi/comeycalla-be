@@ -1,4 +1,4 @@
-package com.loraadova.comeycalla.common.service;
+package com.loraadova.comeycalla.common;
 
 import com.cloudinary.Cloudinary;
 import org.springframework.stereotype.Service;

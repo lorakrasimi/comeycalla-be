@@ -1,7 +1,7 @@
 package com.loraadova.comeycalla.imports.controller;
 
 import com.loraadova.comeycalla.imports.dto.RecipeImportRequest;
-import com.loraadova.comeycalla.imports.ocr.service.service.RecipeImportImageService;
+import com.loraadova.comeycalla.imports.ocr.service.RecipeImportImageService;
 import com.loraadova.comeycalla.imports.dto.RecipeScanResponseDto;
 import com.loraadova.comeycalla.imports.url.service.RecipeImportUrlService;
 import org.springframework.beans.factory.annotation.Autowired;

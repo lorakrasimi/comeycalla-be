@@ -1,7 +1,7 @@
 package com.loraadova.comeycalla.user.service;
 
 import com.loraadova.comeycalla.auth.security.CurrenUserService;
-import com.loraadova.comeycalla.common.service.CloudinaryService;
+import com.loraadova.comeycalla.common.CloudinaryService;
 import com.loraadova.comeycalla.mealplan.service.MealPlanService;
 import com.loraadova.comeycalla.recipe.service.RecipeService;
 import com.loraadova.comeycalla.user.dto.UpdateUserProfileRequestDto;

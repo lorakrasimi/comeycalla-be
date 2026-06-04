@@ -1,4 +1,4 @@
-package com.loraadova.comeycalla.imports.ocr.service.service;
+package com.loraadova.comeycalla.imports.ocr.service;
 
 import com.loraadova.comeycalla.config.GoogleVisionService;
 import com.loraadova.comeycalla.imports.dto.RecipeScanResponseDto;

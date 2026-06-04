@@ -1,7 +1,7 @@
 package com.loraadova.comeycalla.recipe.service;
 
 import com.loraadova.comeycalla.auth.security.CurrenUserService;
-import com.loraadova.comeycalla.common.service.CloudinaryService;
+import com.loraadova.comeycalla.common.CloudinaryService;
 import com.loraadova.comeycalla.recipe.dto.RecipeRequest;
 import com.loraadova.comeycalla.recipe.dto.RecipeResponse;
 import com.loraadova.comeycalla.recipe.entity.RecipeEntity;
